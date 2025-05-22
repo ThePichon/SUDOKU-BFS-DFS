@@ -48,12 +48,12 @@ Asegúrate de tener el archivo `sudoku_input.csv` con el siguiente formato:
 
 2. **Ejecutar el programa con BFS**
 ```bash
-python SudokuBFS.py
+python BFSSUDOKU.py
 ```
 
 3. **Ejecutar el programa con DFS**
 ```bash
-python SudokuDFS.py
+python DFSSUDOKU.py
 ```
 
 ---
@@ -103,4 +103,3 @@ Proyecto académico con fines educativos.
 ## Licencia
 
 Este proyecto es de uso **libre para fines académicos**.  
-Distribúyelo, estúdialo y mejóralo libremente ✨
